@@ -1,0 +1,8 @@
+{
+    "DESIGN_NAME": "alu_8bit",	
+   "VERILOG_FILES": "dir::src/8bitALU.v",
+    "CLOCK_PORT": "",
+    "CLOCK_PERIOD": 10,
+    "FP_CORE_UTIL": 50,
+    "PL_TARGET_DENSITY": 0.6
+}

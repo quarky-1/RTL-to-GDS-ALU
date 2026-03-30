@@ -1,0 +1,19 @@
+Design Name: alu_8bit
+Run Directory: /openlane/designs/alu/runs/RUN_2026.03.29_14.56.11
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/alu/runs/RUN_2026.03.29_14.56.11/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/alu/runs/RUN_2026.03.29_14.56.11/logs/signoff/39-alu_8bit.lef.lvs.log
+Number of nets: 164                        |Number of nets: 164                        
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/alu/runs/RUN_2026.03.29_14.56.11/logs/signoff/41-arc.log
+Pin violations: 0
+Net violations: 0

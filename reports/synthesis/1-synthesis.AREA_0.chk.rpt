@@ -1,0 +1,13 @@
+
+60. Executing CHECK pass (checking for obvious problems).
+Checking module alu_8bit...
+Warning: Wire alu_8bit.\CarryOut is used but has no driver.
+Warning: Wire alu_8bit.\ALU_Out [7] is used but has no driver.
+Warning: Wire alu_8bit.\ALU_Out [6] is used but has no driver.
+Warning: Wire alu_8bit.\ALU_Out [5] is used but has no driver.
+Warning: Wire alu_8bit.\ALU_Out [4] is used but has no driver.
+Warning: Wire alu_8bit.\ALU_Out [3] is used but has no driver.
+Warning: Wire alu_8bit.\ALU_Out [2] is used but has no driver.
+Warning: Wire alu_8bit.\ALU_Out [1] is used but has no driver.
+Warning: Wire alu_8bit.\ALU_Out [0] is used but has no driver.
+Found and reported 9 problems.
