@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Feb 24 16:44:30 2026
+[*]
+[dumpfile] "/home/quarky/Desktop/ALU_DESIGN/alu_wave.vcd"
+[dumpfile_mtime] "Mon Feb 23 19:28:08 2026"
+[dumpfile_size] 874
+[savefile] "/home/quarky/Desktop/ALU_DESIGN/alu_wave.gtkw"
+[timestart] 23350
+[size] 1920 1029
+[pos] -1 -1
+*-12.232888 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 228
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 496
+@22
+alu_8bit_tb.A[7:0]
+alu_8bit_tb.B[7:0]
+alu_8bit_tb.ALU_Out[7:0]
+@28
+alu_8bit_tb.CarryOut
+@25
+alu_8bit_tb.opcode[2:0]
+[pattern_trace] 1
+[pattern_trace] 0

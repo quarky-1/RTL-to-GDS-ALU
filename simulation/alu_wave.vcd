@@ -1,0 +1,75 @@
+$date
+	Tue Feb 24 00:58:08 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module alu_8bit_tb $end
+$var wire 1 ! CarryOut $end
+$var wire 8 " ALU_Out [7:0] $end
+$var reg 8 # A [7:0] $end
+$var reg 8 $ B [7:0] $end
+$var reg 3 % opcode [2:0] $end
+$scope module uut $end
+$var wire 8 & A [7:0] $end
+$var wire 8 ' B [7:0] $end
+$var wire 3 ( opcode [2:0] $end
+$var reg 8 ) ALU_Out [7:0] $end
+$var reg 1 ! CarryOut $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b11001 )
+b0 (
+b1010 '
+b1111 &
+b0 %
+b1010 $
+b1111 #
+b11001 "
+0!
+$end
+#10000
+b1111 "
+b1111 )
+b1 %
+b1 (
+b101 $
+b101 '
+b10100 #
+b10100 &
+#20000
+b10001000 "
+b10001000 )
+b10 %
+b10 (
+b11001100 $
+b11001100 '
+b10101010 #
+b10101010 &
+#30000
+b11101110 "
+b11101110 )
+b11 %
+b11 (
+#40000
+b1100110 "
+b1100110 )
+b100 %
+b100 (
+#50000
+1!
+b0 "
+b0 )
+b0 %
+b0 (
+b1 $
+b1 '
+b11111111 #
+b11111111 &
+#60000
