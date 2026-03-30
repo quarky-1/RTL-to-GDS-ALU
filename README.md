@@ -98,6 +98,14 @@ RTL-to-GDS-ALU/
 
 ---
 
+## Simulation Results
+
+The RTL design was simulated using Icarus Verilog and the waveform was viewed in GTKWave to verify functional correctness before running the physical design flow.
+
+![ALU Simulation Waveform](simulation/alu_wave.png)
+
+---
+
 ## Layout Visualization
 
 ### Full Layout
@@ -209,6 +217,7 @@ gtkwave simulation/alu_wave.vcd
 Sarthak Tripathi
 Electronics Engineering Student, VLSI Design and Technology
 Jaypee Institute of Information Technology, Noida
+GitHub: https://github.com/quarky-1
 
 ---
 
@@ -217,3 +226,5 @@ Jaypee Institute of Information Technology, Noida
 - OpenLane Team
 - OpenROAD Project
 - SkyWater PDK Initiative
+```
+
