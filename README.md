@@ -190,34 +190,24 @@ iverilog -o alu_sim testbench/8bitALU_tb.v src/8bitALU.v
 vvp alu_sim
 gtkwave simulation/alu_wave.vcd
 ```
-
 ---
 
-## Learning Outcomes
+## Future Work
 
-- Complete understanding of the RTL-to-GDSII physical design flow
-- Hands-on experience with industry-standard open-source EDA tools
-- Multi-corner static timing analysis across process corners
-- Understanding of DRC, LVS, IR drop analysis, and antenna checks
-- Parasitic extraction and back-annotation using SPEF and SDF
-
----
-
-## Future Improvements
-
-- Extend design to 16-bit or 32-bit ALU
-- Add pipelining for higher clock frequency
-- Optimize area and power through constraint tuning
-- Integrate formal verification
+Extend to 16-bit or 32-bit datapath
+Add pipeline registers for higher operating frequency
+Integrate formal equivalence checking (LEC) against RTL
+Explore custom standard cell sizing for area/power optimization
 
 ---
 
 ## Author
 
+Author
 Sarthak Tripathi
-Electronics Engineering Student, VLSI Design and Technology
+B.Tech — Electronics Engineering (VLSI Design & Technology), Year 2
 Jaypee Institute of Information Technology, Noida
-GitHub: https://github.com/quarky-1
+contact.sarthaktripathi@gmail.com | GitHub | LinkedIn
 
 ---
 
