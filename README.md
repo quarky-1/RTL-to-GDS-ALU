@@ -121,8 +121,6 @@ The RTL design was simulated using Icarus Verilog and the waveform was viewed in
 
 ## Results Summary
 
-## Results Summary
-
 | Metric | Value |
 |--------|-------|
 | Technology | Sky130 (1.8V) |
@@ -210,11 +208,11 @@ Explore custom standard cell sizing for area/power optimization
 
 ## Author
 
-Author
-Sarthak Tripathi
-B.Tech — Electronics Engineering (VLSI Design & Technology), Year 2
-Jaypee Institute of Information Technology, Noida
-contact.sarthaktripathi@gmail.com | GitHub | LinkedIn
+**Sarthak Tripathi**  
+B.Tech — Electronics Engineering (VLSI Design & Technology)  
+Jaypee Institute of Information Technology, Noida  
+contact.sarthaktripathi@gmail.com  
+[GitHub](https://github.com/quarky-1) | [LinkedIn](https://www.linkedin.com/in/sarthak-tripathi-0b925b1b7/)
 
 ---
 
