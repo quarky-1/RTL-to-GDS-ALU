@@ -121,16 +121,23 @@ The RTL design was simulated using Icarus Verilog and the waveform was viewed in
 
 ## Results Summary
 
-| Metric | Status |
-|--------|--------|
-| Technology | Sky130 |
-| DRC | Clean |
-| LVS | Clean |
-| Timing Violations | None |
+## Results Summary
+
+| Metric | Value |
+|--------|-------|
+| Technology | Sky130 (1.8V) |
+| Standard Cells | **115** |
+| Total Nets | **164** |
+| Chip Area | **998 µm²** |
+| Total Power | **60.8 µW** (typical corner) |
+| Setup Slack | **+3.41 ns** |
+| Hold Slack | **+4.34 ns** |
+| Total Negative Slack (TNS) | **Zero** |
+| DRC Violations | **0** |
+| LVS Violations | **0** |
+| Antenna Violations | **0** |
 | Multi-Corner Analysis | Fastest, Typical, Slowest |
 | IR Drop Analysis | Completed (VPWR and VGND) |
-| Power Analysis | Completed |
-| Antenna Violations | Checked |
 
 ---
 
